@@ -1,3 +1,4 @@
 /apod.bat
-/apodImage.jpg
+/apodImage*.jpg
 /GmailApiKey.txt
+/emails.txt
